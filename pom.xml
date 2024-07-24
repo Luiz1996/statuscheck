@@ -45,7 +45,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>math-tool-services</finalName>
+		<finalName>statuscheck</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
